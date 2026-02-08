@@ -110,7 +110,7 @@ The project uses a **custom list of 254 captions** to match against input images
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image_caption_generator.git
+git clone https://github.com/asif-khan-ak/image_caption_generator.git
 cd image_caption_generator
 ```
 
